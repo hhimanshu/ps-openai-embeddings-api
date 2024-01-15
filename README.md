@@ -48,5 +48,4 @@ unzip archive.zip
 - Run the following commands
 ```sh
 head -200 data/input/reviews.csv > data/input/reviews_200.csv
-sed 's/<br\/>/ /g' data/input/reviews_200.csv > data/input/reviews_200_clean.csv
 ```
