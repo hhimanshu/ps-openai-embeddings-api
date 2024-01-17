@@ -1,5 +1,6 @@
 # Installation
 - You must install [Conda](https://docs.conda.io/projects/conda/en/stable/). Please select the install methods that suits your Operating System.
+- If using VS Code, download the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - Open Terminal and run the following commands:
 ### Create a conda environment
 ```sh
